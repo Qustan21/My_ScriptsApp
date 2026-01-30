@@ -1,0 +1,9 @@
+requests
+pymupdf
+shodan
+playwright
+sumy
+nltk
+python-nmap
+deep-translator
+beautifulsoup4
